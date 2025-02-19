@@ -44,7 +44,19 @@ const STUDENTS: Student[] = [
     phone: "+229 59684269",
     program: "Sécurité informatique",
     year: 1
+  },
+  {
+    matricule: "11111111",
+    firstName: "Test",
+    lastName: "TEST",
+    email: "test@gmail.com",
+    phone: "+229 11111111",
+    program: "Internet et Multimedia",
+    year: 2
   }
+];
+
+inte
 ];
 
 interface User {
