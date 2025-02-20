@@ -82,11 +82,11 @@ Voulez-vous plus de détails sur une étape particulière ?`;
     if (KEYWORDS.contact.some(keyword => lowercaseMsg.includes(keyword))) {
       return `Vous pouvez contacter l'IFRI :
 
-- Par email : contact@ifri-uac.bj
-- Par téléphone : +229 XX XX XX XX
-- Adresse : Campus d'Abomey-Calavi
+- Par email : secretariat@ifri.uac.bj
+- Par téléphone : (+229) 55 02 80 70
+- Adresse : Université d'Abomey-Calavi - Campus, Rue Agro Maquis FSA
 
-Notre équipe est disponible du lundi au vendredi, de 8h à 18h.`;
+Notre équipe est disponible du lundi au vendredi, de 8h à 16h30.`;
     }
 
     // Check for events related questions
